@@ -1,0 +1,24 @@
+.pricing-container{
+   display: flex;
+   flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+.pricing-plan{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.plan-button{
+    background-color: rgb(244, 115, 29);
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    border: none;
+}
+ul{
+    list-style: none;
+}
